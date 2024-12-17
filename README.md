@@ -28,9 +28,3 @@ bin\Debug\net8.0-windows\Data\diagnostics.txt
 - **`Data/`**: Contains `voxelsData.txt`, `VoxelDatabase.db`, and `diagnostics.txt`.  
 - **`VoxelStorage.cs`**: Handles binary file and database operations.  
 - **`Form1.cs`**: Windows Forms interface for the app.
-
-## Running the Project
-
-1. **Clone the Repository**:  
-   ```bash
-   git clone https://github.com/yourusername/VoxelStoragePerformanceComparison.git
